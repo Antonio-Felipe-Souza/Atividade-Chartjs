@@ -1,0 +1,17 @@
+body{
+    display: flex;
+}
+
+#myChartLine {
+    position: relative;
+    height: 40vh;
+    width: 40vw;
+   
+}
+
+#myChartBar {
+    position: relative;
+    height: 40vh;
+    width: 40vw;
+}
+
